@@ -1,4 +1,4 @@
-# Stop-Watch
+# StopWatch
 The Stopwatch project is a simple web application built using HTML, CSS, and vanilla JavaScript. Its main purpose is to provide a functional stopwatch that can be started, stopped, and reset by the user.
 
 At a high level, the Stopwatch app consists of a web page with a display to show the time in HH:MM: SS format. It also includes three buttons: "Start," "Stop," and "Reset," which allow users to control the stopwatch's behavior.
